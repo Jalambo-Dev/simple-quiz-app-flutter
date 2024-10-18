@@ -12,6 +12,7 @@ It is designed to be lightweight, user-friendly, and easily extensible for diffe
 
 
 ## Screenshots
+![secreens](https://github.com/user-attachments/assets/186dc5c5-b22b-40f7-871f-9192c8446db1)
 
 
 ## Installation
